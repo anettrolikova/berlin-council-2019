@@ -19,19 +19,24 @@ _Note: The Fellowship of Ethereum Magicians is not currently a formal organizati
 ## Planners & Organizers
 
 Community Organizers
-* Greg Colvin
+* Anett Rolikova
 * Jamie Pitts
 
 Logistics Support in Berlin
 * [Web3 Foundation](http://web3.foundation), led by Ashley Tyson
+* [Parity](https://www.parity.io/), led by Carol-Ann O'Hagan
 
 Event Volunteers
-* Boris Mann
-* Dani Bellavita
+* Pet3erpan
+* Ethernian
+* Anna from Fluence.network
+* Marko
+* Boris Mann
+* Alex Gluchowski
 
 ## Resources
 
-* [Public planning wiki](https://ethereum-magicians.org/t/berlin-council-planning-wiki-feedback/325)
+* [Public planning wiki](https://ethereum-magicians.org/t/magicians-berlin-council-2019-call-for-topics-and-eips-to-discuss/3425)
 * [Github repo for this website](https://github.com/ethereum-magicians/berlin-council) - please raise issues / submit pull requests to improve the site!
 * [Public Gitter for discussion](https://gitter.im/ethereum-magicians/berlin-council)
 * [Notes from the first event, EthCC in Paris, March 2018](https://docs.google.com/document/d/1rgQnZKpNc71XUotSTVmHt9La8y3_yKi8te1bH396AWA/edit)

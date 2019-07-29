@@ -1,6 +1,6 @@
 ---
 layout: poster
-title: Summer 2018 Council of Berlin
+title: FEM Berlin Council 2019
 sidebar_link: false
 ---
 
@@ -9,8 +9,8 @@ sidebar_link: false
 ### Event Summary
 
 ``` bash
-July 14-15 (and on the eve of July 13th)
-Berlin, Germany at c-base
+August 20th 
+Berlin, Germany at Funkhaus
 
 Technical discussions & governance as they relate to the Ethereum 
 project and Ethereum Improvement Proposals (EIPs).
@@ -18,7 +18,7 @@ project and Ethereum Improvement Proposals (EIPs).
 All are welcome! Please read our open invitation to participate.
 
 Propose topics: https://ethereum-magicians.org
-Register: https://ethereum-magicians.github.io/berlin-council
+Register: https://forms.gle/xKrKhTZDQv9R1n5z7
 ```
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magicians Meetings, Confirming July 14 - 15th at c-base
+title: Magicians Meetings, Confirming August 20th at Funkhaus
 excerpt_separator:  <!--more-->
 category: News
 ---
@@ -9,7 +9,8 @@ We've heard you loud and clear! [The word "council" has been raising some eyebro
 
 We're evolving everything about this process out in the open, so please do participate and we'll figure it out together.
 
-For now -- other than the repo name! -- we think we're going to consistently call these Magicians Meetings, with this being the Summer Meeting. The Spring Meeting was at EthCC in Paris, and the Fall Meeting will be around Devcon.
+For now -- other than the repo name! -- we think we're going to consistently call these Magicians Meetings.
+Last summer it was the Summer Meeting. The Spring Meeting was at EthCC in Paris, and the Fall Meeting will be around Devcon.
 
 We are also confirming that the dates will be **July 14th & 15th**, and the venue will be [c-base](https://c-base.org/).
 
